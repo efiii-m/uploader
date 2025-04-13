@@ -1,0 +1,52 @@
+{
+    "servers": [
+        {
+            "http://spaceserver1.pythonanywhere.com/": {
+                "totalspace": 512.0,
+                "freespace": 510.006601,
+                "usedspace": 1.993399,
+                "params": []
+            }
+        },
+        {
+            "http://spaceserver2.pythonanywhere.com/": {
+                "totalspace": 512.0,
+                "freespace": 510.017536,
+                "usedspace": 1.982464,
+                "params": []
+            }
+        },
+        {
+            "http://spaceserver3.pythonanywhere.com/": {
+                "totalspace": 512.0,
+                "freespace": 495.2332209999999,
+                "usedspace": 16.766779,
+                "params": [
+                    "HWNNPBP0",
+                    "CZHV1EUT",
+                    "D91COIEQ",
+                    "LPPDIAJQ",
+                    "TKWJVNTP",
+                    "WU5F3MZU",
+                    "NLKNAQUZ",
+                    "QDTSRFOA",
+                    "GMHBYJ1L",
+                    "FYSBNNU9",
+                    "BEAYEWK0",
+                    "R6GWYGQN",
+                    "A4NIT9CZ",
+                    "4HNAAGAH",
+                    "E0OQBH19",
+                    "QONV9CH7",
+                    "G2FYURJS",
+                    "Q7JCPOHG",
+                    "6A51H5BQ",
+                    "AHOANOMI",
+                    "RNYH8GFL",
+                    "5IAKOMKN"
+                ]
+            }
+        }
+    ],
+    "TOKEN": "YinQX03ZVNlKgDZU9y0hBsuQpjmL948R"
+}
